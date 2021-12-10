@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1639125393 source:c:\users\nelly\onedrive\Документы\c\ekz2\main.cpp
+	<iostream>
+	<cmath>
+	<vector>
+	<algorithm>
+	<iomanip>
+	<sstream>
+	<bitset>
+
